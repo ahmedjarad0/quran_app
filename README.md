@@ -1,6 +1,6 @@
 # quran_app
 
-A new Flutter project.
+![quran](https://github.com/ahmedjarad0/quran_app/assets/113943692/c5f9a62a-a32b-44e8-9b7f-279aa0487c69)
 
 ## Getting Started
 
